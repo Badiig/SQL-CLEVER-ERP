@@ -1,5 +1,5 @@
 
-------------------------------SOCIETE HISTORIQUE------------------------------
+------------------------------SOCIETE HISTORIQUE test------------------------------
 
 drop table SOCIETE_HISTORIQUE
 GO
